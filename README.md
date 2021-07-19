@@ -1,6 +1,6 @@
-# Webpack Starter
+# Lista To do
 
-Este es mi plantilla inicial para crear proyectos que utilicen webpack.
+Este es un ejercicio del curso de javascript
 
 ## Notas:
 Recuerda reconstruir los modulos de note
